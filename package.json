@@ -1,0 +1,10 @@
+{
+  "name": "achieve_proxy",
+  "version": "0.1.0",
+  "description": "Standalone HTTP CONNECT tunneling for an existing Node HTTP server.",
+  "main": "index.js",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "scripts": {"test": "node --test"},
+  "engines": {"node": ">=22"},
+  "license": "MIT"
+}
